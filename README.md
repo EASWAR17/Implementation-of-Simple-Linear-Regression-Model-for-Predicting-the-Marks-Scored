@@ -8,17 +8,17 @@ To write a program to implement the simple linear regression model for predictin
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-# STEP1:
+### STEP1:
 Import the standard Libraries.
-# STEP2:
+### STEP2:
 Set variables for assigning dataset values.
-# STEP3:
+### STEP3:
 Import linear regression from sklearn.
-# STEP4:
+### STEP4:
 Assign the points for representing in the graph
-# STEP5:
+### STEP5:
 Predict the regression for marks by using the representation of the graph.
-# STEP6:
+### STEP6:
 Compare the graphs and hence we obtained the linear regression for the given datas.
 
 ## Program:
